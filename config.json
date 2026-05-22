@@ -1,0 +1,8 @@
+{
+  "api": {
+    "base_url": "https://open.pingcode.com",
+    "client_id": "",
+    "client_secret": "",
+    "grant_type": ""
+  }
+}
